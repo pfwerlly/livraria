@@ -1,0 +1,29 @@
+*{
+    margin: 20px auto;
+    padding: 0px;
+    font-family: Tahoma;
+    text-align: center;
+    align-items: center;
+}
+
+section{
+border-bottom: 2px solid #d5d5d5;
+padding-top: 40px;
+padding-bottom: 60px;
+}
+
+span{
+    font-weight: bold;
+}
+
+a{
+border-radius: 25px;
+padding: 5px 25px;
+background: green;
+color:#d5d5d5;
+font-weight: bold;
+text-decoration: none;
+}
+
+
+
